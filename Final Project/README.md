@@ -83,5 +83,15 @@ The basic outline followed by the project is:
 The rating criteria was too harsh as the "best" activity got a maximum of 3.65 out of 5 points. So, the ratings were then scaled by giving the best activity for a category 5 and scaling the rest of the activities in that category accordingly.
 
 
+### Results
 
-*Still updating. Thank you for your patience!*
+The results of the project are in the [ipynb file](https://github.com/ragwantsadrag/raghav-daga-iot/blob/main/Final%20Project/GarminData.ipynb).
+
+
+### Possible Improvements / Future Scope
+
+A few changes that could be made -
+
+1) Leveraging unsupervised learning to establish a pattern for the activites and rating them accordingly.
+2) Better rating criteria. The rating criteria used in the project is according to my specific goals. Typically, higher calorie burn rates are undesirable for athletes as their goal is to conserve energy.
+
