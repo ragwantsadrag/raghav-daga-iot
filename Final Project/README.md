@@ -19,4 +19,26 @@ The basic outline followed by the project is:
   - Analysing walking activities.
   - Analysing running activities.
 
+### Data Visualization
+
+#### Walking Data
+
+1) Calories Burned per Minute versus Pace
+
+![Calories burned per minute versus pace](https://github.com/ragwantsadrag/raghav-daga-iot/blob/main/Final%20Project/cal_v_pace_walk.png)
+
+2) Calories Burned per Minute versus Moving Time (duration of the activity)
+
+![Calories burned per minute versus Moving Time](https://github.com/ragwantsadrag/raghav-daga-iot/blob/main/Final%20Project/cal_v_min_walk.png)
+
+3) Pace versus Moving Time (duration of the activity)
+
+![Pace versus Moving Time](https://github.com/ragwantsadrag/raghav-daga-iot/blob/main/Final%20Project/pace_v_min_walk.png)
+
+4) Ratings of all the Walking Activities Over Time
+
+![Ratings of all Walking Activities Over Time](https://github.com/ragwantsadrag/raghav-daga-iot/blob/main/Final%20Project/walk_ratings.png)
+
+
+
 *Still updating. Thank you for your patience!*
